@@ -4,8 +4,9 @@ ___
 ## **Hey There! Welcome to my github page 🎉**
 
 ### So wassup guys, this is the begining of the end.
-
-<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<br><br>
+<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="29" height="29" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="29" height="29" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
