@@ -25,7 +25,7 @@ You can *check out my works from the repository pinned below* and if that intres
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
 
-### **Currently Working on 👩‍💻:**
+### **Currently Working on 👩‍💻**
 
 * **GIFairy :** It is a discord bot (made using discord.js) used for sending GIFs all across the server.
 
@@ -36,7 +36,7 @@ You can *check out my works from the repository pinned below* and if that intres
 <br>
 <br>
 
-### **Technologies and tools 🚀 :**
+### **Technologies and tools 🚀**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
