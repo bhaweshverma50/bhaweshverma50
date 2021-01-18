@@ -12,8 +12,8 @@ ___
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
 
 
-I am a creative developer proficient in making minimal webpages and apps. Mostly I work on backend but has a very good knowledge of Frontend and animations.
-You can check out my works from the repository pinned below and if that intrests you, you can always dig deeper.
+I am a **Creative developer proficient in making minimal webpages and apps**. Mostly I work on backend but also has a very good knowledge of Frontend and animations.
+You can *check out my works from the repository pinned below* and if that intrests you, you can always dig deeper.
 <br>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
@@ -28,7 +28,7 @@ You can check out my works from the repository pinned below and if that intrests
 * **EyeTracker Utilities :** The coolest eyetracking playground out there with IBrush, ZenI Mode, etc.
 
 
-<br><br>
+<!-- <br><br>
 <img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -44,5 +44,5 @@ You can check out my works from the repository pinned below and if that intrests
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://img.favpng.com/15/0/4/figma-designer-computer-icons-material-design-png-favpng-4vfbjK0yXUHBqbYXq4ucm6uZs.jpg" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" />
-&nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://png.pngtree.com/element_our/png/20181227/database-glyph-black-icon-png_291831.jpg" />
+&nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://png.pngtree.com/element_our/png/20181227/database-glyph-black-icon-png_291831.jpg" /> -->
 
