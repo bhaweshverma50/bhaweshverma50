@@ -22,7 +22,6 @@ You can *check out my works from the repository pinned below* and if that intres
 * 💬 Ask me about anything related to technology or Games.
 * 📫 How to reach me: Just click on any of the badge above.
 * ⚡ Fun fact: I am into singing and writing poems too.
-<br>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
 
