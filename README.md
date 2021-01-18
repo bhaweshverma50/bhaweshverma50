@@ -8,6 +8,7 @@ ___
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaweshverma50@gmail.com)](mailto:bhaweshverma50@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FC3474?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhawesh_verma/)](https://www.instagram.com/bhawesh_verma/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1081C2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bhaweshverma5079/)](https://www.facebook.com/bhaweshverma5079/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/1B7hlUle8IzaqgcFtkphXw?si=i9mbqZ75Rcy_E9RcKwQJoQ)](https://open.spotify.com/playlist/1B7hlUle8IzaqgcFtkphXw?si=i9mbqZ75Rcy_E9RcKwQJoQ)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
 
 
