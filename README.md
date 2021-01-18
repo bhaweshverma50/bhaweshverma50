@@ -36,9 +36,9 @@ You can *check out my works from the repository pinned below* and if that intres
 <br>
 <br>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bhaweshverma50&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaweshverma50&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshverma50)](https://github.com/bhaweshverma50/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshverma50">
 
 
 <!-- <br><br>
