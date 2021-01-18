@@ -1,9 +1,9 @@
 ![image](./img.svg)
 
 ___
-## **Hey There Amigo! Welcome to my Github page 🎉**
+## **Hey There Amigo! Welcome to my Github Profile <img height="32" width="32" src="https://i.gifer.com/origin/ad/ad30deb034669aa15cfc3e9f472bc9cc_w200.webp">**
 
-### Down from here you'll know what I am upto these days and what I have done so far. Have a good day! ✨
+Down from here you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="23" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
 <br>
 
 ## **Currently Working on:**
