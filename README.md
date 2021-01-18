@@ -3,7 +3,7 @@
 ___
 ### **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=bhaweshverma50&repo=bhaweshverma50&countColorcountColor&countColor=%237B1E7A)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=bhaweshverma50&repo=GIFairy&countColorcountColor&countColor=%237B1E7A)
 
 
 Down from here you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="22" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
