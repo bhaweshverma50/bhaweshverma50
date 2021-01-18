@@ -15,8 +15,9 @@ ___
 Down from here, you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="22" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
 <br>
 
-### **Currently Working on 👩‍💻:**
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
+
+### **Currently Working on 👩‍💻:**
 
 * **GIFairy :** It is a discord bot (made using discord.js) used for sending GIFs all across the server.
 
