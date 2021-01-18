@@ -34,6 +34,8 @@ You can *check out my works from the repository pinned below* and if that intres
 
 * **EyeTracker Utilities :** The coolest eyetracking playground out there with IBrush, ZenI Mode, etc.
 
+<img src="https://github-readme-stats.vercel.app/api?username=bhaweshverma50&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 <!-- <br><br>
 <img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
