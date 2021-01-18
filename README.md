@@ -12,7 +12,8 @@ ___
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
 
 
-Down from here, you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="22" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
+I am a creative developer proficient in making minimal webpages and apps. Mostly I work on backend but has a very good knowledge of Frontend and animations.
+You can check out my works from the repository pinned below and if that intrests you, you can always dig deeper.
 <br>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
