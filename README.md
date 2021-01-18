@@ -3,10 +3,11 @@
 ___
 ### **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bhawesh_Verma-072f5f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhawesh-verma-196166154/)](https://www.linkedin.com/in/bhawesh-verma-196166154/)
-[![Gmail Badge](https://img.shields.io/badge/-bhaweshverma50@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaweshverma50@gmail.com)](mailto:bhaweshverma50@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-bhawesh__verma-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhawesh_verma/)](https://www.instagram.com/bhawesh_verma/)
-[![Facebook Badge](https://img.shields.io/badge/-Bhawesh_Verma-1081C2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bhaweshverma5079/)](https://www.facebook.com/bhaweshverma5079/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-072f5f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhawesh-verma-196166154/)](https://www.linkedin.com/in/bhawesh-verma-196166154/)
+[![Dev Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/bhaweshverma50)](https://dev.to/bhaweshverma50)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaweshverma50@gmail.com)](mailto:bhaweshverma50@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FC3474?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhawesh_verma/)](https://www.instagram.com/bhawesh_verma/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1081C2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bhaweshverma5079/)](https://www.facebook.com/bhaweshverma5079/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
 
 
@@ -14,6 +15,7 @@ Down from here you'll know what I am upto these days and what I have done so far
 <br>
 
 ## **Currently Working on 👩‍💻:**
+* GIFairy : It is a discord bot used for sending gifs just by typing the search tag/topic
 
 <br><br>
 <img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
