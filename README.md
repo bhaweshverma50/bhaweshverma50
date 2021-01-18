@@ -1,7 +1,7 @@
 ![image](./img.svg)
 
 ___
-### **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
+## **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-072f5f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhawesh-verma-196166154/)](https://www.linkedin.com/in/bhawesh-verma-196166154/)
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/bhaweshverma50)](https://dev.to/bhaweshverma50)
@@ -12,11 +12,15 @@ ___
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
 
 
-Down from here you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="22" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
+Down from here, you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="22" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
 <br>
 
-## **Currently Working on 👩‍💻:**
-* GIFairy : It is a discord bot used for sending gifs just by typing the search tag/topic
+### **Currently Working on 👩‍💻:**
+* **GIFairy :** It is a discord bot (made using discord.js) used for sending GIFs all across the server.
+
+* **Battery Utilities :** It is a python program which runs continously in background and looks for your laptops battery health.
+
+* **EyeTracker Utilities :** The coolest eyetracking playground out there with IBrush, ZenI Mode, etc.
 
 <br><br>
 <img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
