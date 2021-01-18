@@ -41,9 +41,6 @@ You can *check out my works from the repository pinned below* and if that intres
 
 <img height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshverma50&layout=compact">
 
-<br>
-<br>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=bhaweshverma50">
 
 
