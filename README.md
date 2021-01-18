@@ -16,7 +16,7 @@ I am a **Creative developer proficient in making minimal webpages and apps**. Mo
 You can *check out my works from the repository pinned below* and if that intrests you, you can always dig deeper.
 <br>
 
-* 🔭 I’m currently working on Some fun projects.
+* 🔭 I’m currently working on Some fun projects mentioned below.
 * 🌱 I’m currently learning more about DevSecOps.
 * 👯 I’m looking to collaborate on some cool project ideas I * have.
 * 💬 Ask me about anything related to technology or Games.
