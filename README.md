@@ -1,9 +1,12 @@
 ![image](./img.svg)
 
 ___
-### **Hey There Amigo! Welcome to my Github Profile <img height="20" width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">**
+### **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
 
-Down from here you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="23" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=bhaweshverma50&repo=bhaweshverma50&countColorcountColor&countColor=%237B1E7A)
+
+
+Down from here you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="22" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
 <br>
 
 ## **Currently Working on:**
