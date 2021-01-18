@@ -37,7 +37,7 @@ You can *check out my works from the repository pinned below* and if that intres
 <br>
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bhaweshverma50&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bhaweshverma50&&show_icons=true&title_color=252525&icon_color=1ED760&text_color=252525&bg_color=fefefe">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshverma50&layout=compact">
 
