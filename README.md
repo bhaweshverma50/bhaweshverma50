@@ -22,6 +22,8 @@ Down from here, you'll know what I am upto these days and what I have done so fa
 
 * **EyeTracker Utilities :** The coolest eyetracking playground out there with IBrush, ZenI Mode, etc.
 
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
+
 <br><br>
 <img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
