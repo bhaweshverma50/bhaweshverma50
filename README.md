@@ -3,8 +3,10 @@
 ___
 ### **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/-Bhawesh_Verma-072f5f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhawesh-verma-196166154/)](https://www.linkedin.com/in/bhawesh-verma-196166154/)
+[![Gmail Badge](https://img.shields.io/badge/-bhaweshverma50@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaweshverma50@gmail.com)](mailto:bhaweshverma50@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-bhawesh__verma-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhawesh_verma/)](https://www.instagram.com/bhawesh_verma/)
+[![Facebook Badge](https://img.shields.io/badge/-Bhawesh_Verma-1081C2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bhaweshverma5079/)](https://www.facebook.com/bhaweshverma5079/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
 
 
