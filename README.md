@@ -1,9 +1,13 @@
 ![image](./img.svg)
 
 ___
-## **Hey There! Welcome to my github page 🎉**
+## **Hey There Amigo! Welcome to my Github page 🎉**
 
-### So wassup guys, this is the begining of the end.
+### Down from here you'll know what I am upto these days and what I have done so far. Have a good day! ✨
+<br>
+
+## **Currently Working on:**
+
 <br><br>
 <img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img widht="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
