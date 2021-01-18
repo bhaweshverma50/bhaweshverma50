@@ -1,7 +1,7 @@
 ![image](./img.svg)
 
 ___
-## **Hey There Amigo! Welcome to my Github Profile <img height="32" width="32" src="https://i.gifer.com/origin/ad/ad30deb034669aa15cfc3e9f472bc9cc_w200.webp">**
+### **Hey There Amigo! Welcome to my Github Profile <img height="20" width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">**
 
 Down from here you'll know what I am upto these days and what I have done so far. Have a good day! <img height="20" width="23" src="https://i.gifer.com/origin/86/8645b63f87e9bd99939f1bef3acd4853_w200.webp">
 <br>
