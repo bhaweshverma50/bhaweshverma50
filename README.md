@@ -63,5 +63,5 @@ You can *check out my works from the repository pinned below* and if that intres
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bhaweshverma50&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshverma50&hide=TeX&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=bhaweshverma50)
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=bhaweshverma50"> -->
