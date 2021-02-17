@@ -7,7 +7,7 @@ ___
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/bhaweshverma50)](https://dev.to/bhaweshverma50)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaweshverma50@gmail.com)](mailto:bhaweshverma50@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FC3474?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhawesh_verma/)](https://www.instagram.com/bhawesh_verma/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-FC3474?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/bhawesh_verma/)](https://www.twitter.com/binaryBits101/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/bhawesh_verma/)](https://www.twitter.com/binaryBits101/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1081C2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bhaweshverma5079/)](https://www.facebook.com/bhaweshverma5079/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/1B7hlUle8IzaqgcFtkphXw?si=i9mbqZ75Rcy_E9RcKwQJoQ)](https://open.spotify.com/playlist/1B7hlUle8IzaqgcFtkphXw?si=i9mbqZ75Rcy_E9RcKwQJoQ)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bhaweshverma50.bhaweshverma50)
