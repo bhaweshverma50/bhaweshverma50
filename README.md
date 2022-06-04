@@ -1,7 +1,7 @@
 ![image](./img.svg)
 
 ___
-## **Hey There Amigo! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
+## **Hey There Amigo! Welcome to my Github Profile 👋🏼**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-072f5f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhawesh-verma-196166154/)](https://www.linkedin.com/in/bhawesh-verma-196166154/)
 [![Dev Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/bhaweshverma50)](https://dev.to/bhaweshverma50)
