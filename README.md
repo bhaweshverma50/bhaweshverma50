@@ -24,13 +24,12 @@ You can *check out my works from the repository pinned below* and if that intres
 * 📫 How to reach me: Just click on any of the badge above.
 * ⚡ Fun fact: I am into singing and writing poems too.
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" />
+<!-- <img align="right" alt="GIF" src="https://media0.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47f7nerc98nixs2lh72hhmpqnj3bvdwjtj4onxrpbx&rid=giphy.webp" /> -->
 
-### **Currently Working on 👩‍💻**
+#### **Currently Working on:**
 
-* **GIFairy :** It is a discord bot (made using discord.js) used for sending GIFs all across the server.
+* Random ideas and Myself
 
-* **Portfolio Website :** It is my personal portfolio website comprising all the projects and it's updated links.
 
 <br>
 <br>
